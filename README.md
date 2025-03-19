@@ -31,7 +31,6 @@ Este proyecto es una aplicación sencilla de "Amigo Secreto", donde los usuarios
 
 Para descargar el código, simplemente clona este repositorio:
 
-```bash
 git clone https://github.com/joelcondh/challenge.git
 
 ## <a id="abre-y-ejecuta-el-proyecto"></a>🛠️ Abre y ejecuta el proyecto
@@ -47,7 +46,7 @@ Disfruta de la aplicación y empieza a agregar amigos para hacer el sorteo. 🎉
 
 ## <a id="personas-contribuyentes"></a>Personas Contribuyentes 🙌
 
-- Alura On 💡
+- Alura One 💡
 
 ## <a id="personas-desarrolladores"></a>Personas-Desarrolladores del Proyecto 👨‍💻
 
