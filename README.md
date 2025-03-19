@@ -31,7 +31,7 @@ Este proyecto es una aplicación sencilla de "Amigo Secreto", donde los usuarios
 
 Para descargar el código, simplemente clona este repositorio:
 
-git clone https://github.com/joelcondh/challenge.git
+📁 https://github.com/joelcondh/challenge.git
 
 ## <a id="abre-y-ejecuta-el-proyecto"></a>🛠️ Abre y ejecuta el proyecto
 
